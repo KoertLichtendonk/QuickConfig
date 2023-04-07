@@ -11,7 +11,7 @@ namespace QuickConfig
     {
         public string configPath { get; set; }
 
-        void Save()
+        void SaveDefault()
         {
             string json = JsonConvert.SerializeObject(this, Formatting.Indented);
 
