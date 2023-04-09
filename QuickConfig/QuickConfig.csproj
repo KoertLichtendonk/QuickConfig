@@ -7,10 +7,13 @@
 	<EnablePackageValidation>true</EnablePackageValidation>
 	<Authors>Koert Lichtendonk</Authors>
 	<Description>A library to quickly handle configuration files.</Description>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageIcon>icon.png</PackageIcon>
 
 	<!-- PackageProjectUrl is different from the repository URL. It can be a documentation
         website or a website explaining the project -->
-	<PackageProjectUrl>https://koertlichtendonk.nl</PackageProjectUrl>
+	<PackageProjectUrl>https://koertlichtendonk.com</PackageProjectUrl>
 
 	<!-- A list of tags to help the search engine to understand the content of the package -->
 	<PackageTags>configuration, config</PackageTags>
